@@ -2,7 +2,7 @@ console.log("user 1 makes a request")
 setTimeout(callback, 3000);
 console.log("Hi...");
 
-console.log("user 2 makes a request")
+console.log("user  2 makes a request")
 setTimeout(callback1, 3000);
 console.log("Hello");
 
