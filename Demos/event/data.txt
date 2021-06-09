@@ -1,0 +1,18 @@
+How and Where NodeJS Internally uses Event Emitters
+NodeJs internally uses event emitters widely across its
+ environment. The first example we can think of is streams.
+Streams extend event emitters. Streams are built on top of 
+event emitters that raise predefined events like open, 
+end, data, etc.
+The following code snippet is a simple example of 
+a stream — explaining the resemblance with event emitters.
+---------------------------------------------------------
+How and Where NodeJS Internally uses Event Emitters
+NodeJs internally uses event emitters widely across its
+ environment. The first example we can think of is streams.
+Streams extend event emitters. Streams are built on top of 
+event emitters that raise predefined events like open, 
+end, data, etc.
+The following code snippet is a simple example of 
+a stream — explaining the resemblance with event emitters.
+----------------------------------------------------------
